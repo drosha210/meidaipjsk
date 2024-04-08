@@ -18,7 +18,10 @@ h1 {
 }
 img {
   text-align: right;
-  padding-right: 5em;
+}
+.invite {
+	padding: 5px;
+	border: solid 1px #454545;
 }
 footer　{
   position: fixed;
