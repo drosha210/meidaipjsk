@@ -1,0 +1,13 @@
+{
+  "name": "名大プロセカ研究会",
+  "short_name": "名大プロセカ研究会",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "名大プロセカ研究会のホームページ。",
+  "icons": [
+    {
+      "src": "nupjsk_favicon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },]
