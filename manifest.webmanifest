@@ -8,18 +8,18 @@
   "icons": [
     {
       "src": "image/nupjsk-favicon.ico",
-      "sizes": "16x16 24x24 32x32 48x48 64x64 96x96 256x256",
+      "sizes": "16x16 24x24 32x32 48x48 64x64 96x96 128x128 256x256",
       "type": "image/x-icon",
       "purpose": "maskable"
     },
     {
-      "src": "apple-touch-icon.png",
+      "src": "image/apple-touch-icon_180x180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "android-chrome.png",
+      "src": "image/android-chrome_192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
