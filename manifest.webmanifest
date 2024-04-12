@@ -4,7 +4,8 @@
   "start_url": "https://drosha210.github.io/meidaipjsk",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "名大プロセカ研究会のホームページ。",
+  "description": "名大プロセカ研究会のホームページ",
+  "lang": "ja",
   "icons": [
     {
       "src": "image/nupjsk-icon.webp",
