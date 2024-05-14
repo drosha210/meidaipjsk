@@ -3,7 +3,7 @@
   "short_name": "名大プロセカ研究会",
   "start_url": "https://drosha210.github.io/meidaipjsk",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "rgba(34,145,152,255)",
   "description": "名大プロセカ研究会のホームページ",
   "lang": "ja",
   "icons": [
