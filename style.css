@@ -19,11 +19,9 @@ header {
 #button{
 	display:none;
 }
-.header-site-menu:checked{
-	.menu{
+.menu.active{
 		display:block;
 	}
-}
 h1 {
 	line-height: 2;
 }
