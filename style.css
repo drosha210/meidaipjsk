@@ -13,15 +13,6 @@ header {
 	left: 0;
 	right: 0;
 }
-.menu{
-	display:none;
-}
-#button{
-	display:none;
-}
-.menu.active{
-		display:block;
-	}
 h1 {
 	line-height: 2;
 }
