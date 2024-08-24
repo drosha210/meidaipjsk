@@ -20,6 +20,11 @@ h1 {
 	padding: 5px;
 	border: solid 1px #cbcbcb;
 }
+.page_hako {
+	margin-top: 0.125rem;
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
+}
 .activity {
 	margin-top: 0.125rem;
 	padding: 0.3125rem;
