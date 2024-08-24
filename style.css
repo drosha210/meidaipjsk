@@ -1,13 +1,13 @@
 @charset"UTF-8";
 body {
 	padding-top: 180px;
-	background-color: rgba(134,145,152,255);
-	color: rgba(255,255,255,255);
+	background-color: rgb(134,145,152);
+	color: rgb(255,255,255);
 }
 header {
 	text-align: left;
-	background-color: rgba(34,145,152,255);
-	color: rgba(150,210,210,255);
+	background-color: rgb(34,145,152);
+	color: rgb(150,210,210);
 	position: fixed;
 	top: 0;
 	left: 0;
