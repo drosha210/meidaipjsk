@@ -25,25 +25,11 @@ h1 {
 	padding: 0.3125rem;
 	border: solid 0.0625rem #cbcbcb;
 }
-.activity {
-	margin-top: 0.125rem;
-	padding: 0.3125rem;
-	border: solid 0.0625rem #cbcbcb;
+#2DMV {
+	margin-bottom: 0.125rem;
 }
-.プロセカ2DMV {
-	margin-top: 0.125rem;
-	padding: 0.3125rem;
-	border: solid 0.0625rem #cbcbcb;
-}
-.プロセカ3DMV {
-	margin-top: 0.125rem;
-	padding: 0.3125rem;
-	border: solid 0.0625rem #cbcbcb;
-}
-.nupjsk {
-	margin-top: 0.125rem;
-	padding: 0.3125rem;
-	border: solid 0.0625rem #cbcbcb;
+#3DMV {
+	margin-bottom: 0.125rem;
 }
 .home {
 	padding: 5px;
