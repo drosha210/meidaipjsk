@@ -1,0 +1,36 @@
+{
+  "name": "名大プロセカ研究会",
+  "short_name": "名大プロセカ研究会",
+  "start_url": "https://drosha210.github.io/meidaipjsk",
+  "display": "standalone",
+  "background_color": "rgba(34,145,152,255)",
+  "description": "名大プロセカ研究会のホームページ",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "image/nupjsk-icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable"
+    },
+    {
+      "src": "image/android-chrome_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "image/apple-touch-icon_180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "image/image.svg",
+      "sizes": "640x640",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "splash_pages": null
+}
