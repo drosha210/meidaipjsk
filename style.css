@@ -16,12 +16,25 @@ header {
 h1 {
 	line-height: 2;
 }
-img {
-	text-align: right;
-}
 .invite {
 	padding: 5px;
 	border: solid 1px #cbcbcb;
+}
+.activity {
+	padding: 0.3125rem;
+	border: solid 00625rem. #cbcbcb;
+}
+.プロセカ2DMV {
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
+}
+.プロセカ3DMV {
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
+}
+.nupjsk {
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
 }
 .home {
 	padding: 5px;
