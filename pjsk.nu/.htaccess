@@ -1,5 +1,5 @@
 # authenticate(Basic)
-AuthUserFile /meidaipjsk/pjsk.nu/
+AuthUserFile /meidaipjsk/pjsk.nu/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Please enter your ID and password"
 AuthType Basic
