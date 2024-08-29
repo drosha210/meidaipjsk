@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName “認証領域”
+AuthUserFile https://drosha210.github.io/pjsk.nu
+require valid-user
