@@ -1,13 +1,13 @@
 @charset"UTF-8";
 body {
-	padding-top: 180px;
-	background-color: rgba(134,145,152,255);
-	color: rgba(255,255,255,255);
+	padding-top: 10rem;
+	background-color: rgb(134,145,152);
+	color: rgb(255,255,255);
 }
 header {
 	text-align: left;
-	background-color: rgba(34,145,152,255);
-	color: rgba(150,210,210,255);
+	background-color: rgb(34,145,152);
+	color: rgb(150,210,210);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -16,12 +16,23 @@ header {
 h1 {
 	line-height: 2;
 }
-img {
-	text-align: right;
-}
 .invite {
 	padding: 5px;
 	border: solid 1px #cbcbcb;
+}
+.page_hako {
+	margin-top: 0.125rem;
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
+}
+.meidaipjsk-icon {
+	margin-top: 1rem;
+}
+#\0030d7\0030ed\0030bb\0030ab\000032DMV {
+	margin-bottom: 0.125rem;
+}
+#\0030d7\0030ed\0030bb\0030ab\000033DMV {
+	margin-bottom: 0.125rem;
 }
 .home {
 	padding: 5px;
