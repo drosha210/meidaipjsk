@@ -28,6 +28,12 @@ h1 {
 .meidaipjsk-icon {
 	margin-top: 1rem;
 }
+.for-pc {
+	display: block; 
+}
+.for-sp {
+	display: none;
+}
 #\0030d7\0030ed\0030bb\0030ab\000032DMV {
 	margin-bottom: 0.125rem;
 }
