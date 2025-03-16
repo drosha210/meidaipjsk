@@ -3,3 +3,15 @@ body {
 	background-color: rgb(134,145,152);
 	color: rgb(255,255,255);
 }
+a:link{
+	color: #4455DD;
+}
+a:visited{
+	color: #884499;
+}
+a:hover{
+	color: #EE1166;
+}
+a:active{
+	color: #88DD44;
+}
