@@ -16,10 +16,18 @@ header {
 h1 {
 	line-height: 2;
 }
-a:link{color:#4455DD;}
-a:visited{color:#884499;}
-a:hover{color:#EE1166;}
-a:active{color:#88DD44;}
+a:link{
+	color: #4455DD;
+}
+a:visited{
+	color: #884499;
+}
+a:hover{
+	color: #EE1166;
+}
+a:active{
+	color: #88DD44;
+}
 .invite {
 	padding: 5px;
 	border: solid 1px #cbcbcb;
