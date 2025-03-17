@@ -29,8 +29,8 @@ a:active{
 	color: #88DD44;
 }
 .invite {
-	padding: 5px;
-	border: solid 1px #cbcbcb;
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
 }
 .page_hako {
 	margin-top: 0.125rem;
@@ -47,8 +47,8 @@ a:active{
 	margin-bottom: 0.125rem;
 }
 .home {
-	padding: 5px;
-	border: solid 1px #cbcbcb;
+	padding: 0.3125rem;
+	border: solid 0.0625rem #cbcbcb;
 }
 footer　{
 	position: fixed;
