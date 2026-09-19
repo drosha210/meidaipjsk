@@ -38,7 +38,8 @@ a:active{
 	border: solid 0.0625rem #cbcbcb;
 }
 .meidaipjsk-icon {
-	margin-top: 1rem;
+	display: block;
+	margin-top: 6rem;
 }
 #\0030d7\0030ed\0030bb\0030ab\000032DMV {
 	margin-bottom: 0.125rem;
