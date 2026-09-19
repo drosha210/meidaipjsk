@@ -54,6 +54,9 @@ a:active{
 footer　{
 	position: fixed;
 }
+picture{
+	display: block;
+}
 .quiz{
 	margin-bottom: 3rem;
 }
