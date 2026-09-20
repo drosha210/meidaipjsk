@@ -70,3 +70,6 @@ li{
 a.link_image{
 	background-color: rgb(134,145,152);
 }
+.link_content{
+	border-bottom: solid;
+}
