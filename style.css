@@ -16,6 +16,9 @@ header {
 h1 {
 	line-height: 2;
 }
+.link_image{
+	background-color: rgb(134,145,152);
+}
 a:link{
 	background-color: #FFFFFF;
 	color: #4455DD;
@@ -66,7 +69,4 @@ picture{
 }
 li{
 	list-style-position: inside;
-}
-.link_image{
-	background-color: rgb(134,145,152);
 }
