@@ -17,15 +17,19 @@ h1 {
 	line-height: 2;
 }
 a:link{
+	background-color: #FFFFFF;
 	color: #4455DD;
 }
 a:visited{
+	background-color: #FFFFFF;
 	color: #884499;
 }
 a:hover{
+	background-color: #000000;
 	color: #EE1166;
 }
 a:active{
+	background-color: #000000;
 	color: #88DD44;
 }
 .invite {
