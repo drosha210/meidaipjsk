@@ -7,7 +7,7 @@ body {
 header {
 	text-align: left;
 	background-color: rgb(34,145,152);
-	color: rgb(150,210,210);
+	color: rgb(0,0,0);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -38,7 +38,8 @@ a:active{
 	border: solid 0.0625rem #cbcbcb;
 }
 .meidaipjsk-icon {
-	margin-top: 1rem;
+	display: block;
+	margin-top: 6rem;
 }
 #\0030d7\0030ed\0030bb\0030ab\000032DMV {
 	margin-bottom: 0.125rem;
@@ -52,6 +53,9 @@ a:active{
 }
 footer　{
 	position: fixed;
+}
+picture{
+	display: block;
 }
 .quiz{
 	margin-bottom: 3rem;
