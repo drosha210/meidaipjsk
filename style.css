@@ -71,5 +71,6 @@ a.link_image{
 	background-color: rgb(134,145,152);
 }
 .link_content{
-	border-bottom: solid;
+	padding-bottom: 1rem;
+	border-bottom: solid 0.0625rem;
 }
