@@ -68,11 +68,11 @@ li{
 	list-style-position: inside;
 }
 a.link_image{
+	border: solid 0.0625rem #636363;
 	background-color: rgb(134,145,152);
 }
 a.link-image:hover {
-	border: solid 0.06rem;
-	border-color: initial;
+	border: solid 0.0625rem #63636388;
 }
 .link_content{
 	padding-bottom: 1rem;
