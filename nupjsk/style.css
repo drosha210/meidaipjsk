@@ -4,25 +4,25 @@ body {
 	color: rgb(255,255,255);
 }
 a:link{
-	back-ground-color: #ffffff;
+	background-color: #ffffff;
 	color: #4455DD;
 }
 a:visited{
-	back-ground-color: #ffffff;
+	background-color: #ffffff;
 	color: #884499;
 }
 a:hover{
-	back-ground-color: #000000;
+	background-color: #000000;
 	color: #EE1166;
 }
 a:active{
-	back-ground-color: #000000;
+	background-color: #000000;
 	color: #88DD44;
 }
-.page_footer　{
+picture{
+	display: block;
+}
+picture.page_footer　{
 	margin-top: 0.04rem;
 	border-top: solid 0.0625rem;
-}
-.page_footer picture{
-	display: block;
 }
