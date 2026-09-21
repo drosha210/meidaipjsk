@@ -67,10 +67,12 @@ picture{
 li{
 	list-style-position: inside;
 }
-a.link-image img{
+a.link-image img.SNS_link{
+	background-color: rgb(134,145,152);
 	opacity:1;
 }
 a.link-image img.SNS_link:hover{
+	background-color: rgb(134,145,152);
 	opacity:0.5;
 	transition:0.3s;
 }
