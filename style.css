@@ -67,11 +67,11 @@ picture{
 li{
 	list-style-position: inside;
 }
-a.link_image{
+a.link_image img{
 	border: solid 0.0625rem #636363;
 	background-color: rgb(134,145,152);
 }
-a.link-image:hover {
+a.link-image:hover img{
 	border: solid 0.0625rem #63636388;
 }
 .link_content{
