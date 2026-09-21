@@ -2,7 +2,7 @@
 ■ 表明日
 2026年9月21日
 ■ 規格および適合レベル
-Web Content Accessibility Guidelines (WCAG) 2.2 レベルAA 一部準拠
+Web Content Accessibility Guidelines 2.2 (WCAG 2.2) (URI:https://www.w3.org/TR/WCAG22/) レベルAA 一部準拠
 ■ 対象となるウェブページの範囲
 名大プロセカ研究会
 公式ホームページURL：https://drosha210.github.io/meidaipjsk/
