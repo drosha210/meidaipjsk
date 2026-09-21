@@ -72,7 +72,7 @@ a.link_image{
 }
 .link_content{
 	padding-bottom: 1rem;
-	border-bottom: solid 0.0625rem;
+	border-bottom: solid 0.0625rem initial;
 }
 iframe{
 	border:none;
