@@ -69,12 +69,11 @@ li{
 }
 a.link-image img.SNS_link{
 	background-color: rgb(134,145,152);
-	opacity:1;
+	border-bottom: solid 0.0625rem #ffffff;
 }
 a.link-image img.SNS_link:hover{
 	background-color: rgb(134,145,152);
-	opacity:0.5;
-	transition:0.3s;
+	border-bottom: solid 0.0625rem #000000;
 }
 .link_content{
 	padding-bottom: 1rem;
