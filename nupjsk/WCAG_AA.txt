@@ -9,5 +9,6 @@ Web Content Accessibility Guidelines 2.2 (WCAG 2.2) (URI:https://www.w3.org/TR/W
 公式ホームページURL：https://drosha210.github.io/meidaipjsk/
 ■ 例外事項（アクセシビリティに対応していないページおよびコンテンツ）
 ウェブサイト内に埋め込まれている外部サービス（YouTube）の動画コンテンツに関しては、現在のところアクセシビリティ基準を満たしておりません。今後の運用において、可能な限りアクセシビリティの向上に努めてまいります。
+また、ウェブページを複数の経路から利用可能でない点については、今後対応するつもりです。
 ■ 適合表明に係るWeb技術
 HTML、CSS、JavaScript
