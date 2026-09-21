@@ -78,3 +78,7 @@ a.link_image{
 iframe{
 	border:none;
 }
+a.visiting{
+	background-color: rgb(134,145,152);
+	color: rgb(0,0,0);
+}
