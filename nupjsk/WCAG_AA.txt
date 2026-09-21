@@ -1,4 +1,5 @@
-ウェブアクセシビリティ適合表明名大プロセカ研究会のホームページにおける、Web Content Accessibility Guidelines (WCAG) 2.2 の適合レベルAAへの適合状況を以下の通り表明します。
+ウェブアクセシビリティ適合表明
+名大プロセカ研究会のホームページにおける、Web Content Accessibility Guidelines (WCAG) 2.2 の適合レベルAAへの適合状況を以下の通り表明します。
 ■ 表明日
 2026年9月21日
 ■ 規格および適合レベル
