@@ -70,13 +70,9 @@ li{
 a.link_image{
 	background-color: rgb(134,145,152);
 }
-a.link-image img {
-  opacity: 1.0;
-  /* transition: opacity 0.3s ease; */
-}
-a.link-image:hover img {
-  opacity: 0.7;
-  filter: brightness(1.1);
+a.link-image:hover {
+	border: solid 0.06rem;
+	border-color: initial;
 }
 .link_content{
 	padding-bottom: 1rem;
