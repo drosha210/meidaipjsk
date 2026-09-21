@@ -54,7 +54,8 @@ a:active{
 	padding: 0.3125rem;
 	border: solid 0.0625rem #cbcbcb;
 }
-footer　{
+.page_footer　{
+	margin-top: 0.04rem;
 	border-top: solid 0.0625rem;
 }
 picture{
