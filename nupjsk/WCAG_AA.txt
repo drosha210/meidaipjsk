@@ -1,0 +1,13 @@
+ウェブアクセシビリティ適合表明
+名大プロセカ研究会のホームページにおける、Web Content Accessibility Guidelines (WCAG) 2.2 の適合レベルAAへの適合状況を以下の通り表明します。
+■ 表明日
+2026年9月21日
+■ 規格および適合レベル
+Web Content Accessibility Guidelines 2.2 (WCAG 2.2) (URI:https://www.w3.org/TR/WCAG22/) レベルAA 一部準拠
+■ 対象となるウェブページの範囲
+名大プロセカ研究会
+公式ホームページURL：https://drosha210.github.io/meidaipjsk/
+■ 例外事項（アクセシビリティに対応していないページおよびコンテンツ）
+ウェブサイト内に埋め込まれている外部サービス（YouTube）の動画コンテンツに関しては、現在のところアクセシビリティ基準を満たしておりません。今後の運用において、可能な限りアクセシビリティの向上に努めてまいります。
+■ 適合表明に係るWeb技術
+HTML、CSS、JavaScript

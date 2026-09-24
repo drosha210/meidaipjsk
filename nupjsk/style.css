@@ -1,17 +1,28 @@
 @charset"UTF-8";
 body {
 	background-color: rgb(134,145,152);
-	color: rgb(255,255,255);
+	color: rgb(0,0,0);
 }
 a:link{
+	background-color: #ffffff;
 	color: #4455DD;
 }
 a:visited{
+	background-color: #ffffff;
 	color: #884499;
 }
 a:hover{
+	background-color: #000000;
 	color: #EE1166;
 }
 a:active{
+	background-color: #000000;
 	color: #88DD44;
+}
+picture{
+	display: block;
+}
+picture.page_footer　{
+	margin-top: 0.5rem;
+	border-top: solid 0.0625rem;
 }
